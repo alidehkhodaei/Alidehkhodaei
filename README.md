@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm αℓι</h1>
-<h3 align="center">A android programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliprogrammer7&label=Profile%20views&color=129e00&style=plastic" alt="aliprogrammer7" /> </p>
 
