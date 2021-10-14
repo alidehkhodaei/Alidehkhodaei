@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliprogrammer7&label=Profile%20views&color=129e00&style=plastic" alt="aliprogrammer7" /> </p>
 
-- A android programmer.🙋🏻‍♂
-- I’m currently working on Kotlin and Java.🧑🏻‍💻‌
-- I’m currently learning Html, Css, Bootstrap and Javascript.📚
+-🙋🏻‍♂ A android programmer.
+-🧑🏻‍💻‌ I’m currently working on Kotlin and Java.
+-📚 I’m currently learning Html, Css, Bootstrap and Javascript.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&locale=en" alt="aliprogrammer7" /></p>
