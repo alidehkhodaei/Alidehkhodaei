@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&theme=dark" alt="aliprogrammer7" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dark&title_color=FFFFFF"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dark&title_color=FFFFFF&langs_count=10&hide=html,css "/></p>
 
 
 <!--
