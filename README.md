@@ -8,8 +8,8 @@
 - 🧑🏻‍💻‌ I’m currently working on Kotlin and Java.
  📚 I’m currently learning Html, Css, Bootstrap and Javascript.-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliprogrammer7&show_icons=true&locale=en&layout=compact" alt="aliprogrammer7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&locale=en" alt="aliprogrammer7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&locale=en" alt="aliprogrammer7" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliprogrammer7&show_icons=true&locale=en&layout=compact" alt="aliprogrammer7" /></p>
 
 
 <!--
