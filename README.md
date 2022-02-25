@@ -8,9 +8,15 @@
 - 🧑🏻‍💻‌ I’m currently working on Kotlin and Java.
  📚 I’m currently learning Html, Css, Bootstrap and Javascript.-->
 
-<div   style="display: inline;">
+<div   style="display: inline">
+ <div>
  https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false
-https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dracula&title_color=FFFFFF
+ </div>
+ 
+ <div>
+  https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dracula&title_color=FFFFFF
+ </div>
+
 </div>
 
 <!--
