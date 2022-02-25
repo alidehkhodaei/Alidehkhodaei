@@ -8,10 +8,13 @@
 - 🧑🏻‍💻‌ I’m currently working on Kotlin and Java.
  📚 I’m currently learning Html, Css, Bootstrap and Javascript.-->
 
-
-
+   <div style="display: inline">
  ![github stats](https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false)
+</div>
+    <div style="display: inline">
  ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dracula&title_color=FFFFFF) 
+</div>
+
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&" alt="aliprogrammer7" /></p>
