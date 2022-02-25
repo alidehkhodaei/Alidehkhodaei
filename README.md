@@ -1,16 +1,21 @@
 
 <h2>Hello there👋, I'm αℓι</h2>
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliprogrammer7&label=Profile%20views&color=129e00&style=plastic" alt="aliprogrammer7" /> </p>
-
+-->
 
 - 🙋🏻‍♂ A android programmer.
 - 🧑🏻‍💻‌ I’m currently working on Kotlin and Java.
 <!--- 📚 I’m currently learning Html, Css, Bootstrap and Javascript.-->
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliprogrammer7&show_icons=true&locale=en&layout=compact" alt="aliprogrammer7" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&locale=en" alt="aliprogrammer7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&" alt="aliprogrammer7" /></p>
+
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
