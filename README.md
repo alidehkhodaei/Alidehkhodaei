@@ -1,5 +1,5 @@
 
-<h2>Hello there👋, I'm αℓι</h2>
+<h2>Hello there👋</h2>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliprogrammer7&label=Profile%20views&color=129e00&style=plastic" alt="aliprogrammer7" /> </p>
