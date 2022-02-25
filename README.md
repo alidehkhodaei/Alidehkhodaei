@@ -9,9 +9,8 @@
  📚 I’m currently learning Html, Css, Bootstrap and Javascript.-->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&locale=en" alt="aliprogrammer7" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliprogrammer7&show_icons=true&locale=en&layout=compact" alt="aliprogrammer7" /></p>
-
-
+| ![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false) | ![Mahdi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dracula&title_color=FFFFFF) |
+| --- | --- |
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&" alt="aliprogrammer7" /></p>
 -->
