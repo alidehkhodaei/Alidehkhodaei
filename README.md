@@ -11,7 +11,7 @@
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&theme=dracula" alt="aliprogrammer7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&theme=dracula&title_color=FFFFFF" alt="aliprogrammer7" /></p>
 
  ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dracula&title_color=FFFFFF) 
 
