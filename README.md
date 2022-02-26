@@ -10,6 +10,3 @@ Stuying, Coding, Trying to do something special!
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aliprogrammer7&hide=Groovy,JSON,XML&theme=dark"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dark&title_color=FFFFFF&langs_count=10&hide=html,css "/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&" alt="aliprogrammer7" /></p>
-
