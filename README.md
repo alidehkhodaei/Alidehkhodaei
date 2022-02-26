@@ -1,11 +1,9 @@
 
 <h3>Hello there👋</h3>
 
-<!--
- ![github stats](https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false)
--->
-
 Stuying, Coding, Trying to do something special!
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aliprogrammer7&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=false" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&theme=dark" alt="aliprogrammer7" /></p>
 
@@ -13,7 +11,5 @@ Stuying, Coding, Trying to do something special!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliprogrammer7&layout=compact&theme=dark&title_color=FFFFFF&langs_count=10&hide=html,css "/></p>
 
-
-<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliprogrammer7&" alt="aliprogrammer7" /></p>
--->
+
