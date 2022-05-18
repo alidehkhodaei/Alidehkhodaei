@@ -14,6 +14,6 @@ Stuying, Coding, Trying to do something special!
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-dehkhodaei" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ali-dehkhodaei" height="38" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-dehkhodaei" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ali-dehkhodaei" height="39" width="40" /></a>
 <a href="mailto:alidehkhodaei1998@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="alidehkhodaei" height="40" width="35" /></a>
 </p>
