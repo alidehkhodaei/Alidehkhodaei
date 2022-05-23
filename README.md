@@ -1,7 +1,9 @@
 
 <h3>Hello there👋</h3>
 
-Stuying, Coding, Trying to do something special!
+<p>
+I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. Stuying, Coding, Trying to do something special!
+</p>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alidehkhodaei&show_icons=false&theme=dark&title_color=4caf50&icon_color=ffb74d&hide_title=false" /></p>-->
 
