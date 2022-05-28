@@ -11,8 +11,9 @@ I’m curious, and I enjoy work that challenges me to learn something new and st
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alidehkhodaei&hide=Groovy,JSON,XML,html,markdown,properties,prolog,css&theme=dark"/></p>
 
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidehkhodaei&layout=compact&theme=dark&title_color=FFFFFF&langs_count=10&hide=html,css "/></p>
-
+-->
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
