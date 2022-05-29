@@ -6,9 +6,9 @@ I’m curious, and I enjoy work that challenges me to learn something new and st
 </p>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alidehkhodaei&show_icons=false&theme=dark&title_color=4caf50&icon_color=ffb74d&hide_title=false" /></p>-->
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidehkhodaei&theme=dark&fire=DD4D18&ring=DD4D18&currStreakLabel=DD4D18"  /></p>
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alidehkhodaei&hide=Groovy,JSON,XML,html,markdown,properties,prolog,css&theme=dark"/></p>
 
 <!--
